@@ -1,4 +1,3 @@
-# Index
 # Overview repositories
 |               | Theorie           | Oefening  | Oplossing|
 | ------------- |:-------------:|:-----:|:-------:|
