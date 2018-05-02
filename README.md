@@ -9,5 +9,5 @@
 | H06 | [06thWebStorageStarter](https://github.com/Web-II/06thWebStorageStarter.git) and [06thWebStorageCompleted](https://github.com/Web-II/06thWebStorageCompleted.git) | [06exWebStorage](https://github.com/Web-II/06exWebStorage.git) | [06solWebStorage](https://github.com/Web-II/06solWebStorage.git) |
 | H07 | [07thDomStarter](https://github.com/Web-II/07thDomStarter) and [07thDomCompleted](https://github.com/Web-II/07thDomCompleted) | [07exDOM](https://github.com/Web-II/07exDOM) | [07solDOM](https://github.com/Web-II/07solDOM) |
 | H08 | [08thAjaxAndPromisesStarter](https://github.com/Web-II/08thAjaxAndPromisesStarter) and [08thAjaxAndPromisesCompleted](https://github.com/Web-II/08thAjaxAndPromisesCompleted) | [08exAjaxAndPromises](https://github.com/Web-II/08exAjaxAndPromises) | -- |
-| H09 | -- | -- | -- |
+| H09 | [09thGeolocationStarter](https://github.com/Web-II/09thGeolocationStarter) and [09thGeolocationCompleted](https://github.com/Web-II/09thGeolocationCompleted) | -- | -- |
 | H10 | -- | -- | -- |
