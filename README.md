@@ -9,3 +9,4 @@
 | H06 | [06thDOMStarter](https://github.com/Web-II/06thDOMStarter)  | [06exDOMStarter](https://github.com/Web-II/06exDOMStarter) | [06solDOM](https://github.com/Web-II/06solDOM) |
 | H07 | [07thAsynchroonCallback](https://github.com/Web-II/07thAsynchroonCallback)  | [07exAsynchroonCallback](https://github.com/Web-II/07exAsynchroonCallback) | [07solAsynchroonCallback](https://github.com/Web-II/07solAsynchroonCallback) |
 | H08 | [08thAjaxFetch](https://github.com/Web-II/08thAjaxFetch)  | [08exAjaxFetch](https://github.com/Web-II/08exAjaxFetch) | [08solAjaxFetch](https://github.com/Web-II/08solAjaxFetch) |
+| VBExamen |   | [VBExamen-starter](https://github.com/Web-II/voorbeeldExamenStarter) | [VBExamen-completed](https://github.com/Web-II/voorbeeldexamenCompleted) |
